@@ -21,7 +21,7 @@ class _MyAppState extends State<MyApp> {
       theme: ThemeData(
         primaryColor:Color(0xFFBBEA8A),
       ),
-
+// starting from splash
       home: SplashScreen(),
     );
   }
